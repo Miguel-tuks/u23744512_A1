@@ -12,7 +12,7 @@
     </div>
     <div class ="project-card">
     <h3>CAD assembly Project</h3>
-    <p>Fully functioonal assembly done in CAD for MGC110</p>
+    <p>Fully functional assembly done in CAD for MGC110</p>
     </div>
     </div>
 </template>
