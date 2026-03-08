@@ -2,7 +2,7 @@
 <template>
     <div>
      <h1>Contact Me</h1>
-      <form name ="contact" methd = "POST" data-netlify = "true">
+      <form name ="contact" method = "POST" data-netlify = "true">
        <input type = "hidden" name = "form-name" value = "contact"/>
        <label>Name</label>
        <input type = "text" name = "name" required/>
